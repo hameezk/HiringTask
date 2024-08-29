@@ -70,6 +70,6 @@ We look forward to seeing your implementation of these features!
 
 - **Figma**: [Speedforce Digital Flutter Hiring Task](https://www.figma.com/design/clSTtfKux4d8CxqjDHA6Di/Speedforce-Digital-Flutter-Hiring-Task?node-id=0-1&m=dev&t=gq3TNGgRaWo3bt3j-1)
 - **GitHub**: [GitHub Repository](https://github.com/hameezk/HiringTask)
-- **Login API**: [GET]([https://github.com/hameezk/HiringTask](https://my-json-server.typicode.com/hameezk/HiringTask/login))
+- **Login API**: [GET](https://my-json-server.typicode.com/hameezk/HiringTask/login)
 
 Best of luck!
